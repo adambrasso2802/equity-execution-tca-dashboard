@@ -8,3 +8,5 @@ Excel-based equity execution dashboard on synthetic orders, fills and intraday O
 
 File:
 - `mEquity_Execution_TCA_Dashboard.xlsx`
+File:
+- [Equity_Execution_TCA_Dashboard.xlsx](./Equity_Execution_TCA_Dashboard.xlsx)
