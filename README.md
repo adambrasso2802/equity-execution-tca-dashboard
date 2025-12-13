@@ -13,7 +13,7 @@ Excel-based equity execution dashboard on synthetic orders, fills and intraday O
 - Review KPI tiles and charts (implementation shortfall, fees, fill rate, venue mix)
 
 # Sheet map and data model
-- `01_orders`(parent orders; order window; arrival/end; urgency; benchmark)
+- `01_Orders`(parent orders; order window; arrival/end; urgency; benchmark)
 - `02_Fills`(child fills; venue type; fee; notional)
 - `03_OHLCV_5min`(intraday bars; used for market VWAP/benchmark context)
 - `10_TCA_calc`(order-level aggregation + metrics)
