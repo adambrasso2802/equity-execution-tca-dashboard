@@ -25,3 +25,10 @@ File:
 
 # Dashboard Preview
 <img width="1870" height="550" alt="dashboard" src="https://github.com/user-attachments/assets/25a99911-9d39-46f6-af8b-75cb974f2483" />
+
+# Assumptions and Limitations
+- Synthetic dataset (demo only)
+- No bid/ask spread model (uses prices directly)
+- Slippage/fees are simplified (venue assumptions)
+- Not a trading strategy; execution/TCA style aggregation only
+- “Market VWAP” definition depends on your OHLCV windowing (state how)
